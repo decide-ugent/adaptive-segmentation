@@ -1,2 +1,3 @@
-Efficient Spatiotemporal Segmentation for UAVs via Adaptive Token Reuse
 
+
+Official implementation for "Efficient Spatiotemporal Segmentation for UAVs via Adaptive Token Reuse". 
